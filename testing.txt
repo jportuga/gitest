@@ -1,2 +1,8 @@
 git add .
+git commit -am "texto"
+git status
+git remote add github-gitest https://github.com/jportuga/gitest.git
+git push github-gitest master
+git log
+
 
